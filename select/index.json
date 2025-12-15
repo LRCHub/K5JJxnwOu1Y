@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "北風 〜君にとどきますように〜",
+  "base_artist": "槇原敬之",
+  "createdAt": "2025-12-15T14:12:43.219344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "北風 〜君にとどきますように〜",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/01_北風_〜君にとどきますように〜_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "北風～君にとどきますように～",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/02_北風~君にとどきますように~_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "北風 〜君にとどきますように〜 - Kitakaze -Kimi Ni Todokimasuyouni-",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/03_北風_〜君にとどきますように〜_-_Kitakaze_-Kimi_Ni_Todokimasuyouni-_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "北風〜君にとどきますように〜",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/04_北風〜君にとどきますように〜_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "北風～君にとどきますように～",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/05_北風~君にとどきますように~_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "北風 ～君にとどきますように～",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/06_北風_~君にとどきますように~_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "北風～君にとどきますように～",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/07_北風~君にとどきますように~_槇原敬之.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "北風 ～君にとどきますように～",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_北風_~君にとどきますように~_槇原_敬之.txt"
+    }
+  ]
+}
